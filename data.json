@@ -1,9 +1,9 @@
 
 [{
     "id": 1,
-    "title": "233-AYK20",
-    "description-tr": "Jakarlı İnt",
-    "description-en": "Jakarlı İnt",
+    "title": "Kumaş Kodu: 233-AYK20",
+    "description-tr": "İçerik Bilgisi: Jakarlı İnt",
+    "description-en": "Content Knowledge: Jakarlı İnt",
     "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product1.jpeg"
 },
 {
