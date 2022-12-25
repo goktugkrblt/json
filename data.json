@@ -1,130 +1,27 @@
 
 [{
     "id": 1,
-    "title": "Kumaş Kodu: 233-AYK20",
+    "title": "303-AYK20",
     "description-tr": "İçerik Bilgisi: Jakarlı İnt",
     "description-en": "Content Knowledge: Jakarlı İnt",
     "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product1.jpeg"
 },
 {
     "id": 2,
-    "title": "AYK-2021-2",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
+    "title": "233-AYK20",
+    "description-tr": "İçerik Bilgisi: Jakarlı İnt",
+    "description-en": "Content Knowledge: Jakarlı İnt",
+    "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product2.jpeg"
 },
 {
     "id": 3,
-    "title": "AYK-2021-3",
-   "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
+    "title": "199-AYK19",
+   "description-tr": "İçerik Bilgisi: Jakarlı İnt",
+    "description-en": "Content Knowledge: Jakarlı İnt",
+    "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product3.jpeg"
 },
-{
-    "id": 4,
-    "title": "AYK-2021-4",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 3,
-    "title": "AYK-2021-3",
-    "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-},
-{
-    "id": 18,
-    "title": "AYK-2021-3",
-   "description-tr": "pamuk ipsum dolar sitem",
-    "description-en": "pamuk ipsum dolar sitem",
-    "imageUrl": "http://aykum.com/images/6.jpg?crc=4177769325"
-}
+ 
+
 
 
 ]
