@@ -19,6 +19,27 @@
    "description-tr": "İçerik Bilgisi: Jakarlı İnt",
     "description-en": "Content Knowledge: Jakarlı İnt",
     "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product3.jpeg"
+},
+{
+    "id": 4,
+    "title": "120-AYK19",
+   "description-tr": "İçerik Bilgisi: Jakarlı İnt",
+    "description-en": "Content Knowledge: Jakarlı İnt",
+    "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product3.jpeg"
+},
+{
+    "id": 5,
+    "title": "310-AYK19",
+   "description-tr": "İçerik Bilgisi: Jakarlı İnt",
+    "description-en": "Content Knowledge: Jakarlı İnt",
+    "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product3.jpeg"
+},
+{
+    "id": 6,
+    "title": "400-AYK19",
+   "description-tr": "İçerik Bilgisi: Pamuk İnt",
+    "description-en": "Content Knowledge: Pamuk İnt",
+    "imageUrl": "https://raw.githubusercontent.com/goktugkrblt/json/main/product3.jpeg"
 }
  
 
